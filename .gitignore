@@ -22,6 +22,7 @@ staticfiles/
 
 # Virtual environment
 venv/
+myenv/
 .env
 
 # IDE-specific files
